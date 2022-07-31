@@ -66,12 +66,10 @@ Conditional programs with example
 
  14. C++ program to find the eligibility of admission for an engineering course based on the criteria.
 
- 15. C++ program to calculate the total marks, percentage and division of student.
+ 15. C++ program to enter month number and print number of days in month.
 
- 16. C++ program to enter month number and print number of days in month.
+ 16. C++ program to count total number of notes in entered amount.
 
- 17. C++ program to count total number of notes in entered amount.
-
- 18. C++ program to check whether a triangle can be formed by the given value for the angles.
+ 17. C++ program to check whether a triangle can be formed by the given value for the angles.
 
 
