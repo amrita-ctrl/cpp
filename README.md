@@ -74,6 +74,17 @@ Conditional programs with example
  
 List of C++ Language Loop Programs with Examples
 
-1. Write C++ program to print alphabets from a to z.
+ 1. Write C++ program to print alphabets from a to z.
 
+ 2. Write C++ program to print multiplication table of a given number.
+
+ 3. Write C++ program to print all natural numbers in reverse order.
+ 
+ 4. Write C++ program to print sum of digits enter by user.
+ 
+ 5. Write C++ program to find sum of even numbers between 1 to n.
+ 
+ 6. Write C++ program to find sum of odd numbers between 1 to n
+ 
+ 7. Write C++ program to swap first and last digit of a number.
 
